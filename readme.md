@@ -1,12 +1,12 @@
 # GiantSite
 **Description**
-
+***** 
 Adaptive website created with technologies like HTML5, CSS3, Less, jQuery.
 
 For sliders I using jQuery plugin called owl-carousel.
 
 Refresh browser if you have some troubles with sliders.
-
+***** 
 
 **Resolutions**
 ***** 
