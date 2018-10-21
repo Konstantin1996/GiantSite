@@ -83,6 +83,17 @@ a {
 .main-nav-item > a {
   color: white;
 }
+.main-nav-item > .bordered-btn-top {
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  background: white;
+  color: black;
+  font-weight: 600;
+  box-sizing: border-box;
+  border-radius: 40px;
+  padding: 10px 30px;
+}
 .symbol-top {
   font-size: 20px;
 }
@@ -90,6 +101,7 @@ a {
   font-size: 20px;
 }
 .bordered-btn {
+  display: inline-block;
   background-color: white;
   border: 0;
   border-radius: 40px;
@@ -101,6 +113,7 @@ a {
   width: 160px;
 }
 .offer-btn {
+  display: inline-block;
   background-color: white;
   border: 0;
   border-radius: 40px;

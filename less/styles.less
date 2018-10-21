@@ -126,6 +126,18 @@ a {
     color: white;
 }
 
+.main-nav-item > .bordered-btn-top {
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+    background: white;
+    color: black;
+    font-weight: @semi-weight; 
+    box-sizing: border-box;
+    border-radius: @border-btn-rad;
+    padding: 10px 30px;
+}
+
 .symbol-top {
     font-size: @font-standart;
 }
@@ -135,6 +147,7 @@ a {
 }
 
 .bordered-btn {
+    display: inline-block;
     background-color: white;
     border: 0;
     border-radius: @border-btn-rad;
@@ -145,6 +158,9 @@ a {
     height: 36px;
     width: @btn-width;
 }
+
+
+
 
 .offer-btn {
     .bordered-btn();

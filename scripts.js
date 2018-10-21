@@ -219,7 +219,6 @@ jQuery(document).ready(function($) {
 
     // Working with Pricing list
 
-    // $('.offer-item:nth-child(2)').toggleClass('change-item');
 
     $('.offer-item:nth-child(2)').addClass('change-item');
     $('.offer-item:nth-child(2) .btn-wrapper button').addClass('background-btn');
